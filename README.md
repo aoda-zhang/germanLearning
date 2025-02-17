@@ -69,28 +69,6 @@
 - du 去掉 s，直接用 t heiβ<u>**t**</u>
 - er / sie / es / ihr **与规则动词变位一致**
 
-### 特殊动词 3（sein， haben， mochten）
+## 常见英德对应单词
 
-#### sein
-
-- ich ——— bin
-- du ——— bist
-- er/sie/es ——— ist
-- wir / Sie ——— sind
-- ihr ——— seid
-
-#### haben
-
-- ich ——— habe
-- du ——— hast
-- er/sie/es ——— hat
-- wir / Sie ——— haben
-- ihr ——— habt
-
-#### mochten
-
-- ich ——— möchte
-- du ——— möchtest
-- er/sie/es ——— möchte
-- wir / Sie ——— möchten
-- ihr ——— möchtet
+[对应单词](./English_Deutsch.md)
