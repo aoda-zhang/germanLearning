@@ -72,3 +72,62 @@
 ## 常见英德对应单词
 
 [对应单词](./English_Deutsch.md)
+
+## 常见英德疑问词对应
+
+1. **What**
+
+   - **English:** What is your name?
+   - **German:** Was ist dein Name?
+
+2. **How**
+
+   - **English:** How are you?
+   - **German:** Wie geht’s dir?
+
+3. **Where**
+
+   - **English:** Where do you live?
+   - **German:** Wo wohnst du?
+
+4. **When**
+
+   - **English:** When does the train leave?
+   - **German:** Wann fährt der Zug ab?
+
+5. **Why**
+
+   - **English:** Why are you late?
+   - **German:** Warum bist du zu spät?
+
+6. **Who**
+
+   - **English:** Who is coming to the party?
+   - **German:** Wer kommt zur Party?
+
+7. **Which**
+
+   - **English:** Which book do you want?
+   - **German:** Welches Buch möchtest du?
+
+8. **Whose**
+
+   - **English:** Whose jacket is this?
+   - **German:** Wessen Jacke ist das?
+
+9. **What kind**
+
+   - **English:** What kind of music do you like?
+   - **German:** Was für Musik magst du?
+
+10. **How much**
+
+    - **English:** How much does this cost?
+    - **German:** Wie viel kostet das?
+
+11. **How many**
+    - **English:** How many apples do you have?
+    - **German:** Wie viele Äpfel hast du?
+
+## 德国第四格规则
+对于宾语通常都需要采用第四格，只有阳性需要更改第四格，中性和阴性保持和第一格一致！！！
